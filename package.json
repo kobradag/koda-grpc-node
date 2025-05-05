@@ -1,5 +1,5 @@
 {
-  "name": "@kaspa/grpc-node",
+  "name": "@kobradag/grpc-node",
   "version": "1.0.8",
   "description": "Node gRPC for kaspa-wallet",
   "main": "dist/index.js",
